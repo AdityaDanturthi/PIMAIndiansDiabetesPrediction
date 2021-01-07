@@ -1,5 +1,5 @@
 # PIMAIndiansDiabetesPrediction
-Our main goal is to accurately predict if a patient has diabetes or not based on several different factors which include blood glucose level, blood pressure, skin thickness, insulin , BMI , age and number of pregnancies.  The results from this project can be used on wearable devices that monitor some of the important parameters with which we can detect diabetes such as blood oxygen meter which was recently introduced in apple watch series 6.
+Here main goal is to accurately predict if a patient has diabetes or not based on several different factors which include blood glucose level, blood pressure, skin thickness, insulin , BMI , age and number of pregnancies.  The results from this project can be used on wearable devices that monitor some of the important parameters with which we can detect diabetes such as blood oxygen meter which was recently introduced in apple watch series 6.
 
 What is zomato and why we chose it ?
 Zomato is an application which aggregates the restaurants and a food delivery app which offers many services for their customers. Zomato is more focused into the food ordering industry which is located in India. 
